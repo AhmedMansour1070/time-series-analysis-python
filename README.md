@@ -7,21 +7,30 @@ Currently, the focus is on foundational concepts, data preprocessing, and introd
 This project aims to serve as a comprehensive guide for time series analysis, covering topics such as:
 
 Preprocessing and handling time series data (missing values, indexing by dates, transformations).
+
 Understanding key properties of time series: trend, seasonality, stationarity, and random noise.
+
 Testing for stationarity using statistical methods like the Dickey-Fuller Test.
+
 Decomposing time series into trend, seasonal, and residual components.
+
 Differentiating between additive and multiplicative models for seasonality.
+
 Introducing forecasting techniques like ARIMA, SARIMA, and more (coming soon!).
+
 📂 Repository Structure
 notebooks/:
 time_series_analysis.ipynb: The primary notebook containing code, visualizations, and detailed explanations of time series concepts.
 data/: Example datasets used for demonstrations
+
 README.md: Project overview and usage instructions.
 🛠️ How to Use
 Clone the repository:
 
 git clone https://github.com/AhmedMansour1070/time-series-analysis  
+
 cd time-series-analysis  
+
 Install the required Python packages:
 
 pip install -r requirements.txt  
@@ -36,8 +45,9 @@ Seasonal Decomposition Example
 Sample output from seasonal decomposition analysis.
 
 🔗 Related Links
-Course: Time Series Analysis with Python
-Binder: Run the Notebook Online
+Course: [Time Series Analysis with Python](https://learn.365datascience.com/courses/preview/time-series-analysis-in-python/)
+
+Binder: [Run the Notebook Online](https://mybinder.org/v2/gh/AhmedMansour1070/time-series-analysis-python/HEAD?labpath=notebooks%2Ftime_series_analysis.ipynb)
 🙌 Contributions and Feedback
 This project is a work in progress! Suggestions, feedback, and pull requests are highly appreciated.
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/ahmed-hany-04a06019a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_notifications%3BM5wL0PiHSumi7K5YygzzDw%3D%3D).
